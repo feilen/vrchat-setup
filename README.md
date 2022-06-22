@@ -46,3 +46,6 @@ You can get them back (and more!) by using VRCX: https://github.com/pypy-vrc/VRC
 
 Simply enable notifications and the SteamVR overlay. While you're at it, enable online/offline notifications for VIPs (faved friends) and join/leave notifications for friends. No more accidentally abandoning someone at the front of a huge map!
 
+## Optional
+
+You can install https://github.com/fholger/vrperfkit for any GPU. Instead of the default settings, I would suggest setting the supersampling to 1.0 (off) and enabling CAS (contrast-adaptive sharpening). It will add a degree of grainyness/aliasing, especially to thin things like lasers, but at a huge boost in visual clarity.
